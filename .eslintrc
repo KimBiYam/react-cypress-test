@@ -1,0 +1,8 @@
+{
+  "overrides": [
+    {
+      "extends": ["plugin:cypress/recommended"],
+      "files": ["cypress/**/*.js"]
+    }
+  ]
+}
